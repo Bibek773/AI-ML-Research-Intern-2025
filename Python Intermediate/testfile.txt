@@ -1,0 +1,6 @@
+Hello, this is a test file
+ which is overwitten with using w mode
+ This line is added using append modeLine 1
+Line 2
+Line 3
+This line is written using print function
