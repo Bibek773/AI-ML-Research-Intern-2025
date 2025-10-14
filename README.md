@@ -9,24 +9,29 @@ AI MI RESEARCH INTERN/
 │
 ├── README.md
 ├── requirement.txt
+├── DataAnalysisAndVisualization/
+│   └── numpy.ipynb
 ├── Python Basics/
-│   ├── dictionary.py
+│   ├── dictonary.py
 │   ├── PythonBasics.ipynb
-│   └── RockScissorPaper.py
+│   └── RockSissorPaper.py
 └── Python Intermediate/
     ├── new_directory_with_code/
     │   ├── CsvJsonFileHandling.ipynb
-    │   ├── output.csv
     │   ├── data.csv
+    │   ├── output.csv
     │   └── person.json
     ├── bankwithoop.py
     ├── intermediate.ipynb
     ├── numbers.txt
     ├── OopInPython.ipynb
-    ├── PercentageCalculationwithoop.py
+    ├── output.bin
+    ├── PercentageCalacuationwithoop.py
+    ├── processformfile.py
     ├── results.txt
+    ├── test.txt/
     ├── testfile.txt
-    ├── testimg.jpg
+    └── testimg.jpg
 ```
 
 
