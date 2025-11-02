@@ -10,25 +10,32 @@ AI MI RESEARCH INTERN/
 ├── README.md
 ├── requirement.txt
 ├── DataAnalysisAndVisualization/
-│   └── numpy.ipynb
+│   ├── Matplotlib/
+│   │   ├── img_colorbar.png
+│   │   └── matplotlib.ipynb
+│   ├── NumPy/
+│   │   ├── NumPyArrayFundamentals.ipynb
+│   │   └── NumPyRandom.ipynb
+│   └── images/
+│       └── abc.jpg
 ├── Python Basics/
-│   ├── dictonary.py
 │   ├── PythonBasics.ipynb
-│   └── RockSissorPaper.py
+│   ├── RockSissorPaper.py
+│   └── dictonary.py
 └── Python Intermediate/
+    ├── OopInPython.ipynb
+    ├── PercentageCalacuationwithoop.py
+    ├── bankwithoop.py
+    ├── intermediate.ipynb
+    ├── numbers.txt
+    ├── output.bin
+    ├── processformfile.py
+    ├── results.txt
     ├── new_directory_with_code/
     │   ├── CsvJsonFileHandling.ipynb
     │   ├── data.csv
     │   ├── output.csv
     │   └── person.json
-    ├── bankwithoop.py
-    ├── intermediate.ipynb
-    ├── numbers.txt
-    ├── OopInPython.ipynb
-    ├── output.bin
-    ├── PercentageCalacuationwithoop.py
-    ├── processformfile.py
-    ├── results.txt
     ├── test.txt/
     ├── testfile.txt
     └── testimg.jpg
