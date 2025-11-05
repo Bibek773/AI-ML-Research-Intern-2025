@@ -16,6 +16,8 @@ AI MI RESEARCH INTERN/
 │   ├── NumPy/
 │   │   ├── NumPyArrayFundamentals.ipynb
 │   │   └── NumPyRandom.ipynb
+│   ├── Pandas/
+│   │   ├── pandasbasic.ipynb
 │   └── images/
 │       └── abc.jpg
 ├── Python Basics/
