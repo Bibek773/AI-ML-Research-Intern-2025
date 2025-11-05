@@ -18,6 +18,9 @@ AI MI RESEARCH INTERN/
 │   │   └── NumPyRandom.ipynb
 │   ├── Pandas/
 │   │   ├── pandasbasic.ipynb
+│   │   ├── data.csv
+│   │   ├── dataa.json
+│   │   └── clean.csv
 │   └── images/
 │       └── abc.jpg
 ├── Python Basics/
