@@ -1,6 +1,6 @@
 # AI MI Research Intern
 
-Welcome to the **AI MI Research Intern** repository! This repository contains resources, documentation, and code related to research internship in Artificial Intelligence and Machine Intelligence.
+Welcome to the **AI MI Research Intern** repository! This repository contains resources, documentation, and code related to research internship in Artificial Intelligence and Machine Intelligence organized by deepqore.
 
 ## Folder Structure
 
@@ -46,6 +46,10 @@ AI MI RESEARCH INTERN/
     └── testimg.jpg
 ```
 
-
-
-
+## Installation
+For installing on your local machine:
+``` bash
+git clone https://github.com/bibiek773/AI-MI-Research-Intern.git
+cd AI-MI-Research-Intern
+pip install -r requirement.txt
+``` 
