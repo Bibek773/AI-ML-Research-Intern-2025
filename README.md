@@ -9,6 +9,9 @@ AI MI RESEARCH INTERN/
 │
 ├── README.md
 ├── requirement.txt
+├── MachineLearning/
+│   ├── LinearRegression/
+│   │   ├── LinearRegression.ipynb
 ├── DataAnalysisAndVisualization/
 │   ├── Matplotlib/
 │   │   ├── img_colorbar.png
